@@ -8,6 +8,6 @@
 - PCBUILD.md
 - VIDEOGAMES.md
 
-[Pc Build Markdown](https://www.google.com)
+[Pc Build Markdown](https://github.com/jacobrapp99/Jake-Rapp-Mardown-1600/blob/main/PCBUILD.md)
 
 [Videogames Markdown](https://www.google.com)
