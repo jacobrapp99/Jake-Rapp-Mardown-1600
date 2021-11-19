@@ -10,4 +10,4 @@
 
 [Pc Build Markdown](https://github.com/jacobrapp99/Jake-Rapp-Mardown-1600/blob/main/PCBUILD.md)
 
-[Videogames Markdown](https://www.google.com)
+[Videogames Markdown](https://github.com/jacobrapp99/Jake-Rapp-Mardown-1600/blob/main/VIDEOGAMES.md)
