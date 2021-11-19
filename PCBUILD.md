@@ -75,4 +75,4 @@
 ### **Whats Left**
 > I only need those last 4 compnents before im able to start building. The case, CPU cooler, and 2nd storage device will be going on sale for those prices for black friday so im just waiting to buy those. I will probably just buy the case fan when those other parts go on sale so that i just have evrything, the case fan is pretty inexpensive so i dont care to wait for it go on sale. I also already have a keyboard, mouse, mouse pad, headset, and monitor. I may try and pick up a new monitor over black friday because my current one is only 1080p and i would like a 1440p monitor.
 
-[Back to README]()
+[Back to README](https://github.com/jacobrapp99/Jake-Rapp-Mardown-1600#readme)
